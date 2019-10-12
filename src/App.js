@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Button from '@material-ui/core/Button';
-=======
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
->>>>>>> 34a7a06133eebcc446e99c76849f271d4dbef2b9
 
 function App() {
   return (
