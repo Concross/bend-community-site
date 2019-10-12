@@ -5,7 +5,7 @@ import Button from '@material-ui/core/Button';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" data-testid="app">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
